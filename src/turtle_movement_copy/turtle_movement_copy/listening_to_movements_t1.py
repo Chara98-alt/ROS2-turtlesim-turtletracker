@@ -10,7 +10,7 @@ class ListenToTurtle1Movements(Node):
         super().__init__('turtle1_listener')
         self.cli = self.create_client(Spawn, '/spawn')
         self.turtle2_srv = self.create_client(TeleportRelative, '/turtle2/teleport_relative')
-        self.tutrle1_srv = self.create_client(TeleportRelative, 'turtle1/teleport_absolute')
+        self.tutrle1_srv = self.create_client(TeleportAbsolute, 'turtle1/teleport_absolute')
         self.listener = self.create_subscription(Twist, '/turtle1/cmd_vel', self.listener_callback, 10)
         self.listener
         self.req_spawn = Spawn.Request()
