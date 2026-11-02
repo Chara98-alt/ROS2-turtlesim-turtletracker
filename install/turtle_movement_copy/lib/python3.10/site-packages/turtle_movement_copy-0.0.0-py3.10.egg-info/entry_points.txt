@@ -1,0 +1,3 @@
+[console_scripts]
+movements_listener = turtle_movement_copy.listening_to_movements_t1:main
+

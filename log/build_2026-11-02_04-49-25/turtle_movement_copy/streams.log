@@ -1,0 +1,24 @@
+[0.505s] Invoking command in '/home/charan/ros2_test/src/turtle_movement_copy': PYTHONPATH=/home/charan/ros2_test/build/turtle_movement_copy/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/charan/ros2_test/install/turtle_movement_copy/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle_movement_copy build --build-base /home/charan/ros2_test/build/turtle_movement_copy/build install --record /home/charan/ros2_test/build/turtle_movement_copy/install.log --install-scripts $base/lib/turtle_movement_copy --single-version-externally-managed install_data
+[0.712s] running egg_info
+[0.712s] writing ../../build/turtle_movement_copy/turtle_movement_copy.egg-info/PKG-INFO
+[0.713s] writing dependency_links to ../../build/turtle_movement_copy/turtle_movement_copy.egg-info/dependency_links.txt
+[0.713s] writing entry points to ../../build/turtle_movement_copy/turtle_movement_copy.egg-info/entry_points.txt
+[0.713s] writing requirements to ../../build/turtle_movement_copy/turtle_movement_copy.egg-info/requires.txt
+[0.713s] writing top-level names to ../../build/turtle_movement_copy/turtle_movement_copy.egg-info/top_level.txt
+[0.714s] reading manifest file '../../build/turtle_movement_copy/turtle_movement_copy.egg-info/SOURCES.txt'
+[0.715s] writing manifest file '../../build/turtle_movement_copy/turtle_movement_copy.egg-info/SOURCES.txt'
+[0.715s] running build
+[0.715s] running build_py
+[0.715s] copying turtle_movement_copy/listening_to_movements_t1.py -> /home/charan/ros2_test/build/turtle_movement_copy/build/lib/turtle_movement_copy
+[0.715s] running install
+[0.716s] running install_lib
+[0.716s] copying /home/charan/ros2_test/build/turtle_movement_copy/build/lib/turtle_movement_copy/listening_to_movements_t1.py -> /home/charan/ros2_test/install/turtle_movement_copy/lib/python3.10/site-packages/turtle_movement_copy
+[0.717s] byte-compiling /home/charan/ros2_test/install/turtle_movement_copy/lib/python3.10/site-packages/turtle_movement_copy/listening_to_movements_t1.py to listening_to_movements_t1.cpython-310.pyc
+[0.717s] running install_data
+[0.717s] running install_egg_info
+[0.719s] removing '/home/charan/ros2_test/install/turtle_movement_copy/lib/python3.10/site-packages/turtle_movement_copy-0.0.0-py3.10.egg-info' (and everything under it)
+[0.719s] Copying ../../build/turtle_movement_copy/turtle_movement_copy.egg-info to /home/charan/ros2_test/install/turtle_movement_copy/lib/python3.10/site-packages/turtle_movement_copy-0.0.0-py3.10.egg-info
+[0.719s] running install_scripts
+[0.738s] Installing movements_listener script to /home/charan/ros2_test/install/turtle_movement_copy/lib/turtle_movement_copy
+[0.738s] writing list of installed files to '/home/charan/ros2_test/build/turtle_movement_copy/install.log'
+[0.756s] Invoked command in '/home/charan/ros2_test/src/turtle_movement_copy' returned '0': PYTHONPATH=/home/charan/ros2_test/build/turtle_movement_copy/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/charan/ros2_test/install/turtle_movement_copy/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle_movement_copy build --build-base /home/charan/ros2_test/build/turtle_movement_copy/build install --record /home/charan/ros2_test/build/turtle_movement_copy/install.log --install-scripts $base/lib/turtle_movement_copy --single-version-externally-managed install_data

@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/turtle_movement_copy/turtle_movement_copy.egg-info
+writing ../../build/turtle_movement_copy/turtle_movement_copy.egg-info/PKG-INFO
+writing dependency_links to ../../build/turtle_movement_copy/turtle_movement_copy.egg-info/dependency_links.txt
+writing entry points to ../../build/turtle_movement_copy/turtle_movement_copy.egg-info/entry_points.txt
+writing requirements to ../../build/turtle_movement_copy/turtle_movement_copy.egg-info/requires.txt
+writing top-level names to ../../build/turtle_movement_copy/turtle_movement_copy.egg-info/top_level.txt
+writing manifest file '../../build/turtle_movement_copy/turtle_movement_copy.egg-info/SOURCES.txt'
+reading manifest file '../../build/turtle_movement_copy/turtle_movement_copy.egg-info/SOURCES.txt'
+writing manifest file '../../build/turtle_movement_copy/turtle_movement_copy.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/charan/ros2_test/build/turtle_movement_copy/build
+creating /home/charan/ros2_test/build/turtle_movement_copy/build/lib
+creating /home/charan/ros2_test/build/turtle_movement_copy/build/lib/turtle_movement_copy
+copying turtle_movement_copy/__init__.py -> /home/charan/ros2_test/build/turtle_movement_copy/build/lib/turtle_movement_copy
+copying turtle_movement_copy/listening_to_movements_t1.py -> /home/charan/ros2_test/build/turtle_movement_copy/build/lib/turtle_movement_copy
+running install
+running install_lib
+creating /home/charan/ros2_test/install/turtle_movement_copy/lib/python3.10/site-packages/turtle_movement_copy
+copying /home/charan/ros2_test/build/turtle_movement_copy/build/lib/turtle_movement_copy/__init__.py -> /home/charan/ros2_test/install/turtle_movement_copy/lib/python3.10/site-packages/turtle_movement_copy
+copying /home/charan/ros2_test/build/turtle_movement_copy/build/lib/turtle_movement_copy/listening_to_movements_t1.py -> /home/charan/ros2_test/install/turtle_movement_copy/lib/python3.10/site-packages/turtle_movement_copy
+byte-compiling /home/charan/ros2_test/install/turtle_movement_copy/lib/python3.10/site-packages/turtle_movement_copy/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/charan/ros2_test/install/turtle_movement_copy/lib/python3.10/site-packages/turtle_movement_copy/listening_to_movements_t1.py to listening_to_movements_t1.cpython-310.pyc
+running install_data
+creating /home/charan/ros2_test/install/turtle_movement_copy/share/ament_index
+creating /home/charan/ros2_test/install/turtle_movement_copy/share/ament_index/resource_index
+creating /home/charan/ros2_test/install/turtle_movement_copy/share/ament_index/resource_index/packages
+copying resource/turtle_movement_copy -> /home/charan/ros2_test/install/turtle_movement_copy/share/ament_index/resource_index/packages
+copying package.xml -> /home/charan/ros2_test/install/turtle_movement_copy/share/turtle_movement_copy
+running install_egg_info
+Copying ../../build/turtle_movement_copy/turtle_movement_copy.egg-info to /home/charan/ros2_test/install/turtle_movement_copy/lib/python3.10/site-packages/turtle_movement_copy-0.0.0-py3.10.egg-info
+running install_scripts
+Installing movements_listener script to /home/charan/ros2_test/install/turtle_movement_copy/lib/turtle_movement_copy
+writing list of installed files to '/home/charan/ros2_test/build/turtle_movement_copy/install.log'
